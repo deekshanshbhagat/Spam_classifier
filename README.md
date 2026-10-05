@@ -2,8 +2,6 @@
 
 A machine learning-based spam classifier that predicts whether a given message is **spam** or **ham**. It uses Natural Language Processing (NLP) techniques for text preprocessing, vectorization, and classification. The best-performing model is deployed with a Streamlit UI for real-time predictions.
 
-## Video demo
-[Demo:](https://drive.google.com/file/d/1o12bfrmcbyGsWZFFcWWN8BZi_ly-T3c5/view?usp=sharing)
 
 ---
 
